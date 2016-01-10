@@ -1,0 +1,64 @@
+2015-12-28 19:08:00,230 [main] INFO  (dictionary.Main) - logging is on
+2015-12-28 19:08:00,233 [main] INFO  (dictionary.Dictionary) - load dictionary in 'dictionary.txt'.
+2015-12-28 19:08:00,360 [main] INFO  (dictionary.Dictionary) - dictionary is loaded
+2015-12-28 19:08:05,503 [JNativeHook Dispatch Thread] INFO  (dictionary.Main) - start Gui
+2015-12-28 19:08:07,217 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'h'
+2015-12-28 19:08:07,247 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - show Popup
+2015-12-28 19:08:07,383 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'ha'
+2015-12-28 19:08:07,386 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:07,695 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'hal'
+2015-12-28 19:08:07,699 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:07,863 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'hall'
+2015-12-28 19:08:07,887 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:08,063 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'hallo'
+2015-12-28 19:08:08,065 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:09,647 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'hallo'
+2015-12-28 19:08:09,648 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:10,567 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'hallo'
+2015-12-28 19:08:10,568 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:10,663 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'wi'
+2015-12-28 19:08:10,666 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:10,807 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'wie'
+2015-12-28 19:08:10,809 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:11,574 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'wie'
+2015-12-28 19:08:11,576 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,030 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'wie'
+2015-12-28 19:08:12,032 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,167 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'ge'
+2015-12-28 19:08:12,183 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,343 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'geh'
+2015-12-28 19:08:12,360 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,486 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'geht'
+2015-12-28 19:08:12,504 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,678 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'geht'
+2015-12-28 19:08:12,696 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:12,783 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'e'
+2015-12-28 19:08:12,808 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:13,055 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'es'
+2015-12-28 19:08:13,055 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:13,343 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'es'
+2015-12-28 19:08:13,344 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:13,543 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'es'
+2015-12-28 19:08:13,543 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:13,679 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'di'
+2015-12-28 19:08:13,679 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:13,759 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'dir'
+2015-12-28 19:08:13,760 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:16,479 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - focus Popup
+2015-12-28 19:08:19,799 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for ''
+2015-12-28 19:08:19,800 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:19,802 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for 'dir'
+2015-12-28 19:08:19,803 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:25,535 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for ''
+2015-12-28 19:08:25,535 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:29,742 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - focus Popup
+2015-12-28 19:08:31,255 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for '...'
+2015-12-28 19:08:31,256 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:32,127 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for '..'
+2015-12-28 19:08:32,127 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:32,318 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for '.'
+2015-12-28 19:08:32,318 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:32,518 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - search for ''
+2015-12-28 19:08:32,519 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - update Popup
+2015-12-28 19:08:34,884 [AWT-EventQueue-0] INFO  (dictionary.Main) - close Gui
+2015-12-28 19:08:34,885 [AWT-EventQueue-0] INFO  (dictionary.Dictionary) - save dictionary to'dictionary.txt'.

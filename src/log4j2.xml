@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration debug="true">
+
+    <Appenders>
+        <Console name="console">
+            <PatternLayout pattern="%d [%t] %-5level (%logger) - %m%n"/>
+        </Console>
+
+        <File name="file" fileName="log/log.log">
+            <PatternLayout pattern="%d [%t] %-5level (%logger) - %m%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+
+        <Root>
+            <appender-ref ref="console" />
+            <appender-ref ref="file" />
+        </Root>
+    </Loggers>
+
+</Configuration>
